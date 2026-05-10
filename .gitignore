@@ -1,0 +1,6 @@
+# Claude Code local settings (per-machine permissions)
+.claude/
+
+# OS metadata
+.DS_Store
+Thumbs.db
