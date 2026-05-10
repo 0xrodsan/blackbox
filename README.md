@@ -24,4 +24,4 @@ https://0xrodsan.github.io/blackbox/
 - 🏦 DeFi / Fiat
 
 ## Part of
-[RodSan ecosystem](https://0xrodsan.github.io/) — main section: [Blackbox](https://0xrodsan.github.io/blackbox/)
+[RodSan ecosystem](https://0xrodsan.github.io/) — main section: [BlackBox](https://0xrodsan.github.io/blackbox/)
